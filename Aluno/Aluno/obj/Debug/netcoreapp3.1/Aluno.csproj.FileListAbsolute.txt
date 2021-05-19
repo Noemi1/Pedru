@@ -1,0 +1,13 @@
+C:\Users\Lucas\Documents\Noemi\Aluno\Aluno\bin\Debug\netcoreapp3.1\Aluno.exe
+C:\Users\Lucas\Documents\Noemi\Aluno\Aluno\bin\Debug\netcoreapp3.1\Aluno.deps.json
+C:\Users\Lucas\Documents\Noemi\Aluno\Aluno\bin\Debug\netcoreapp3.1\Aluno.runtimeconfig.json
+C:\Users\Lucas\Documents\Noemi\Aluno\Aluno\bin\Debug\netcoreapp3.1\Aluno.runtimeconfig.dev.json
+C:\Users\Lucas\Documents\Noemi\Aluno\Aluno\bin\Debug\netcoreapp3.1\Aluno.dll
+C:\Users\Lucas\Documents\Noemi\Aluno\Aluno\bin\Debug\netcoreapp3.1\Aluno.pdb
+C:\Users\Lucas\Documents\Noemi\Aluno\Aluno\obj\Debug\netcoreapp3.1\Aluno.csprojAssemblyReference.cache
+C:\Users\Lucas\Documents\Noemi\Aluno\Aluno\obj\Debug\netcoreapp3.1\Aluno.AssemblyInfoInputs.cache
+C:\Users\Lucas\Documents\Noemi\Aluno\Aluno\obj\Debug\netcoreapp3.1\Aluno.AssemblyInfo.cs
+C:\Users\Lucas\Documents\Noemi\Aluno\Aluno\obj\Debug\netcoreapp3.1\Aluno.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Documents\Noemi\Aluno\Aluno\obj\Debug\netcoreapp3.1\Aluno.dll
+C:\Users\Lucas\Documents\Noemi\Aluno\Aluno\obj\Debug\netcoreapp3.1\Aluno.pdb
+C:\Users\Lucas\Documents\Noemi\Aluno\Aluno\obj\Debug\netcoreapp3.1\Aluno.genruntimeconfig.cache
